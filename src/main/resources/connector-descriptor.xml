@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><GenericConnectorDescriptor>
+  <operation types="GET"/>
+  <operation types="QUERY"/>
+  <operation types="CREATE"/>
+  <operation types="UPDATE"/>
+  <operation types="UPSERT"/>
+  <operation types="DELETE"/>
+  <operation types="EXECUTE"/>
+</GenericConnectorDescriptor>
